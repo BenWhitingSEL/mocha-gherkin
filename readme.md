@@ -9,7 +9,7 @@
 
 ## Description
 
-You might now [cucumber](http://cukes.info/). There is now a robust JavaScript
+You might know [cucumber](http://cukes.info/). There is now a robust JavaScript
 based cucumber implementation \o/ with
 [cucumber-js](https://github.com/cucumber/cucumber-js). This tool is not a
 replacement or even trying to compete with cucumber-js. If you want a real and
